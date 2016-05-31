@@ -1,4 +1,5 @@
-OpenProcurement API to SQL bridge
+OpenProcurement API to SQL bridge, Windows
+Get it from https://github.com/imaginal/openprocurement.transfuse
 ==========
 
 command line tool
